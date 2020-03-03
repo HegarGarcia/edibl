@@ -1,0 +1,8 @@
+{
+  "name": "edibl-server",
+  "version": "0.1.0",
+  "main": "index.js",
+  "author": "HUD",
+  "license": "MIT",
+  "private": true
+}
