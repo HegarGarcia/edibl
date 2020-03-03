@@ -4,5 +4,11 @@
   "main": "index.js",
   "author": "HUD",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "dependencies": {
+    "express": "^4.17.1",
+    "helmet": "^3.21.3",
+    "morgan": "^1.9.1",
+    "node-fetch": "^2.6.0"
+  }
 }
